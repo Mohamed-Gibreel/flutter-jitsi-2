@@ -20,7 +20,8 @@ rootProject.allprojects {
         //     url "https://github.com/jitsi/jitsi-maven-repository/raw/master/releases"
         // }
         // maven { url "https://raw.githubusercontent.com/Faisalkc4u/jitsi_android_mvn/main" }
-        maven { url "https://raw.githubusercontent.com/Mohamed-Gibreel/mvn-repo/master" }
+        // maven { url "https://raw.githubusercontent.com/Mohamed-Gibreel/mvn-repo/master" }
+        maven { url "https://raw.githubusercontent.com/Mohamed-Gibreel/mvn-repo-2/master" }
         google()
         jcenter()
     }
